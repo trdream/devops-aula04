@@ -1,3 +1,3 @@
-O Atirador
-Ponto Cego
-La Casa de Papel
+O Atirador <br/>
+Ponto Cego <br/>
+La Casa de Papel </br>
